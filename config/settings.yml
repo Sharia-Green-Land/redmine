@@ -20,7 +20,7 @@
 # Settings can be defined through the application in Admin -> Settings
 
 app_title:
-  default: Redmine
+  default: معسكر المهدي
 app_subtitle:
   default: Project management
 welcome_text:
@@ -251,7 +251,7 @@ repository_log_display_limit:
   format: int
   default: 100
 ui_theme:
-  default: ''
+  default: 'axiom'
 emails_footer:
   default: |-
     You have received this notification because you have either subscribed to it, or are involved in it.
