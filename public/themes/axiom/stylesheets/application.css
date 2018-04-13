@@ -122,7 +122,8 @@ hr {
 }
 #main {
 	z-index:100;
-	background:url(../images/bgs/black_trans_55.png) repeat;
+	background:url(https://farm9.static.flickr.com/8292/28850323124_c374902a66_b.jpg) no-repeat;
+	background-size: cover;
 	border-top:1px solid #999;
 	border-bottom:1px solid #000;
 	padding:10px;
